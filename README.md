@@ -66,3 +66,13 @@ me!
 A big thanks to the owners of **mct.tantrum.org** who have tested nearly everything I have made and really given me direction and drive to make these things and was the first server willing to take the buggy mess that Tinker was, at first, onto their server!
 
 A big shout-out to GentlemanCheesy who puts a lot of time and effort into making skull textures for me across many of my addons. Without these they would be far blander and certainly not be half as attractive as they are!
+
+---
+
+## 📄 License & Upstream Attribution
+
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
